@@ -112,7 +112,7 @@ INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, cate
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Impunidad diplomática', 'Francisco Martorell', 'Planeta', '', 1993, 'Periodismo de investigación', 368);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Don Quijote de la Mancha', 'Miguel de Cervantes', 'Alfaguara', 'IV Centenario', 2005, 'Novela', 264);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Kanji Para Recordar', 'James Heisig, Marc Bernabé, Verónica Calafell', 'Herder', '', 2001, 'Educación', 269);
-INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('V de Vendetta	Alan Moore', 'Alan Moore', 'Norma', '', 2002, 'Novela gráfica', 224);
+INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('V de Vendetta', 'Alan Moore', 'Norma', '', 2002, 'Novela gráfica', 224);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('El principito', 'Antoine de Saint-Exupéry', 'Zig-Zag', '47', 2019, 'Cuento infantil', 370);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Papelucho', 'Marcela Paz', 'Rapa-Nui', '1',	1947, 'Cuento infantil', 387);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('El libro negro de la justicia chilena', 'Alejandra Matus', 'Planeta', '1', 1999, 'Periodismo de investigación', 185);
