@@ -122,7 +122,7 @@ INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, cate
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Matar un ruiseñor', 'Harper Lee', 'Bruguera	', '', 1966, 'Novela', 143);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('El asesinato de Roger Ackroyd', 'Agatha Christie', 'Planeta', '1',	2017, 'Novela', 377);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('El Tao del Jeet Kune Do', 'Bruce Lee', 'Eyra', '', 2011, 'Artes Marciales', 377);
-INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Harry Potter y la piedra filosofal', 'J.K. Rowling', 'Penguin Random House', '', 2020, 'Educación', 11);
+INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Harry Potter y la piedra filosofal', 'J.K. Rowling', 'Penguin Random House', '', 2020, 'Novela', 11);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('La palabra huevón', 'Cosme Portocarrero', 'LOM', '1', 1998, 'Educación', 152);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Un cuarto propio', 'Virginia Woolf', 'Alianza Editorial', '', 2003, 'Ensayo', 259);
 INSERT INTO libro (nombreLibro, autor, editorial, edicion, anioPublicacion, categoria, ejemplares) VALUES ('Etica Nicomaquea', 'Aristóteles', 'Porrúa', '', 1998, 'Filosofía', 179);
